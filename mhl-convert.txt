@@ -1,0 +1,3 @@
+mhl-convert () {
+    mhl verify -v -f $1/*.mhl && ascmhl create -v -ii /data/ignore.txt $1 && echo "Completed $1";
+}

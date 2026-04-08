@@ -1,8 +1,9 @@
-*.mhl/Users/romp/Movies/Movies/Mulan Rise of a Warrior (2009) Bluray-1080p - YIFY.en.srt
+*.mhl
 *.md5
 *Desktop.ini
 *DS_Store
 .@__thumb
+._*
 Transfer Logs
 Proxy
 ascmhl
